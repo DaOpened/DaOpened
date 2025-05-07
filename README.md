@@ -1,6 +1,6 @@
 # 👋 Hi, I'm DaYeon — AllOpened 🌸
 
-> “다연 — 마음을 **다 연** 포용력을 가진 사람으로 살겠습니다.”  
+> “다연 — 마음을 **다 연** 포용력을 가진 사람.”  
 > I strive to be a developer who opens up not just code, but connection.
 
 ---
