@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DaYeon — AllOpened 🌸
+# 👋 Hi, I'm DaYeon 🌸
 
 > “다연 — 마음을 **다 연** 포용력을 가진 사람.”  
 > I strive to be a developer who opens up not just code, but connection.
@@ -32,7 +32,7 @@
 
 ## ✨ Philosophy
 
-> **AllOpened** = 마음을 다 연 사람  
+> **다 연** = 마음을 다 연 사람  
 > 기술뿐 아니라, 사람을 향하는 개발을 꿈꿉니다.  
 > I believe in writing code that is kind — to users, to collaborators, and to myself.
 
