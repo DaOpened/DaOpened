@@ -1,6 +1,5 @@
 # 👋 Hi, I'm DaYeon 🌸
 
-> “다연 — 마음을 **다 연** 포용력을 가진 사람.”  
 > I strive to be a developer who opens up not just code, but connection.
 
 ---
